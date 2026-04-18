@@ -1,0 +1,20 @@
+# 📝 To-Do List App
+
+A simple To-Do List web application built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Add tasks
+- Edit tasks
+- Delete tasks
+- Data stored using localStorage
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 📸 Screenshot
+(Add your screenshot here)
+
+## 🔗 Live Demo
+(Add later if you deploy)
