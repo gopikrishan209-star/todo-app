@@ -14,7 +14,7 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 📸 Screenshot
-(Add your screenshot here)
+![APP Screenshot](screenshot.png)
 
 ## 🔗 Live Demo
 (Add later if you deploy)
